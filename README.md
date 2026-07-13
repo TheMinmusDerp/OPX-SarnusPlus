@@ -6,7 +6,7 @@ Additions include:
 * Brand new ring texture for Sarnus with backlit support
 * Vizak, an analog for Pan and other such ring shepherd moons. Full biome support
 * Ryla, a different ring shepherd moon orbiting where Ovok used to be. Full biome support
-* Remastered Ovok and Hale for realism and higher quality
+* Remastered Ovok, Hale, Slate, and Tekto for realism and higher quality
 * Masmar, an analog for the inner major moon of Mimas. Full biome support
 * Ovok and Eeloo shrunk and moved outwards
 	* Ovok now orbits where a Methone analog SHOULD go
@@ -15,7 +15,3 @@ Additions include:
 * Nofla, Gibb, Egin, Palar, and Seri, a set of five pseudobody objects with diminished science values to fill out the system with things that reasonably should be there
 * Hypo, an analog for Hyperion orbiting beyond Tekto in a similarly inclined orbit. Full biome support
 * Phabus, an extremely distant outer moon and analog for Phoebe, orbiting retrograde far beyond Tekto and Hypo. Full biome support
-
-TO DO:
-
-* Revamps for Slate and Tekto
